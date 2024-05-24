@@ -1,0 +1,4 @@
+__Results of analysis__
+        
+Beneish M-Score reported a result of 7.99 which is higher than 6.81
+expected of the model thus there is a high chance of manipulation of financial statements.    
